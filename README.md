@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manishkini
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning data structures and algo plus AWS
-- 💞️ I’m looking to collaborate on a great open source to-do app
+- 👀 I’m a Full Stack Developer!
+- 🌱 I’m having 3+ years of experience, using technologies i.e javaScript, NodeJS, React.
+- 💞️ I’m looking to collaborate on a great open source projects.
 - 📫 How to reach me -> Linkdin(https://www.linkedin.com/in/manish-kini-a443b0113/)
 
 <!---
