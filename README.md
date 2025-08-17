@@ -1,33 +1,35 @@
-# 👋 Hi there, I'm Manish Kini
+# 👋 Hi, I'm Manish Kini
 
 ## 🚀 About Me
-I am a **Senior Full Stack Developer** with over 4 years of experience building scalable web applications and cloud-native solutions using modern technologies like **Node.js, React, Fastify, Prisma, Python, Docker, and AWS**.  
+Senior Full-Stack Engineer (5+ years) who enjoys solving problems and turning ideas into usable products.  
+I’ve led backend and frontend developers, and I’ve **created** and migrated production infrastructure on AWS to keep releases secure and stable. Product-minded, collaborative, and calm under pressure.
 
-I specialize in backend development, microservices, cloud infrastructure (AWS), and building efficient, scalable architectures while also contributing to frontend projects when needed.
+- Currently building an internal **AI agent platform** at **Provue** (Pazago).
+- Previously led major modules and platform work at **Precize** (fintech).
+- Hands-on across backend systems, cloud infra, and pragmatic frontend.
 
-- 🔧 Currently working on backend architecture and AI-powered multi-agent systems at **Provue** (internal product of Pazago).
-- 🧠 Previously led development of major modules and infra at **Precize**, including AWS migration, CDSL automation, and sales module.
-- 📡 Hands-on experience with real-time systems, serverless architectures (Lambda, AppSync), and IoT integrations.
-- 💬 Passionate about clean code, mentoring, scalable backend design, and open-source collaborations.
+## 🔭 What I’m Working On
+- **Provue** — [provue.ai](https://www.provue.ai/)  
+  Composable agent platform: versioned instructions/prompts/knowledge, MCP/custom tools, streaming chat, and ingestion/RAG pipelines. Bootstrapped backend + infra; later led backend devs and set code/review standards.
 
-## 💼 Current Focus
-- Backend Systems (Fastify, Node.js, Prisma, PostgreSQL)
-- Cloud & DevOps (AWS ECS, ECR, Lambda, RDS, CodePipeline)
-- Multi-agent AI applications (Python, Agno, Pydantic, Vector Stores)
-- Frontend Engineering (React, Next.js, ShadCN, TailwindCSS)
+## ✅ Highlights
+- **Precize** — [precize.in](https://www.precize.in/)  
+  Built the **Sales module**; automated **CDSL statement order marking** (AWS Lambda + `pdfplumber`); added **Slack** notifications via **SNS + AWS Chatbot** (status, daily sales, client distribution); migrated workloads **us-east-2 → ap-south-1**; partnered with design; led backend and frontend devs.
+- **Paul Mueller Company (PMC)** — [paulmueller.com](https://www.paulmueller.com/)  
+  IIoT deployment for **300+ milk storage tanks**. 10-second telemetry to **InfluxDB** with live dashboards via **Sails socket.io**; rule-based alerts via SMS/Email; remote control via **Teleport**.
 
-## 💡 Looking For
-- Open-source projects in backend, DevOps, or AI domains to contribute to and learn from.
-- Collaborations on innovative projects (preferably remote or hybrid).
+## 🧰 I Work With
+- **Backend & Data:** Node.js, TypeScript, Prisma, PostgreSQL, pgvector  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Cloud & Ops:** Docker, AWS (infra creation, operations, migrations)  
+- **Patterns:** RAG, agentic systems, streaming, real-time telemetry
+
+## 🎯 What I Care About
+- Clear ownership, steady delivery, and maintainable services  
+- Building products that are reliable, observable, and cost-aware  
+- Mentoring engineers and writing docs/runbooks that scale teams
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/manish-kini-a443b0113/)
 - [GitHub](https://github.com/Manishkini)
 - [Email](mailto:manishkini19@gmail.com)
-
----
-
-<!---
-Manishkini/Manishkini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
