@@ -9,10 +9,6 @@ I’ve led backend and frontend developers, and I’ve **created** and migrated 
 - Previously led major modules and platform work at **Precize** (fintech).
 - Hands-on across backend systems, cloud infra, and pragmatic frontend.
 
-## 🔭 What I’m Working On
-- **Provue** — [provue.ai](https://www.provue.ai/)  
-  Composable agent platform: versioned instructions/prompts/knowledge, MCP/custom tools, streaming chat, and ingestion/RAG pipelines. Bootstrapped backend + infra; later led backend devs and set code/review standards.
-
 ## ✅ Highlights
 - **CareValidate** — [carevalidate.com](https://www.carevalidate.com/) Primary Lead, Platform Team
   Owned platform work on a GraphQL / Vue.js / PostgreSQL / GCP stack: built a **Redis-backed rate-limiting system**, an **auto-ordering pipeline** handling 30–50% of daily orders, and order-form auto-prefill. Stepped up from Senior Developer to leading the platform team.
